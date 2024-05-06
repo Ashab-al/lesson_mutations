@@ -1,0 +1,18 @@
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/home/asxab/.rbenv/versions/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240506-7786-fr1en2 sitelibdir\=./.gem.20240506-7786-fr1en2 clean
+
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240506-7786-fr1en2 sitelibdir\=./.gem.20240506-7786-fr1en2
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240506-7786-fr1en2 sitelibdir\=./.gem.20240506-7786-fr1en2 install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240506-7786-fr1en2/skiptrace/internal
+
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240506-7786-fr1en2 sitelibdir\=./.gem.20240506-7786-fr1en2 clean

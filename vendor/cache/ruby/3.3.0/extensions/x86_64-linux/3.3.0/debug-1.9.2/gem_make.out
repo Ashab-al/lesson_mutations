@@ -1,0 +1,19 @@
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/home/asxab/.rbenv/versions/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240506-7786-37hzqx sitelibdir\=./.gem.20240506-7786-37hzqx clean
+
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240506-7786-37hzqx sitelibdir\=./.gem.20240506-7786-37hzqx
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240506-7786-37hzqx sitelibdir\=./.gem.20240506-7786-37hzqx install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240506-7786-37hzqx/debug
+
+current directory: /home/asxab/railstut/dz_rails/lesson_mutations/vendor/cache/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240506-7786-37hzqx sitelibdir\=./.gem.20240506-7786-37hzqx clean
